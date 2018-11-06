@@ -11,7 +11,7 @@
 * before flashing it! YOU are choosing to make these modifications, and if
 * you point the finger at us for messing up your device, we will laugh at you.
 */[/CODE][/CENTER]
-[INDENT]
+
 [B][SIZE="5"]Introduction[/SIZE][/B]
 
 Pitch Black Recovery is a fork of TWRP with many improvements to make your experience better. It's more flexible & easy to use.
