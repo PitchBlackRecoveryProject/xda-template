@@ -23,8 +23,8 @@ Pitch Black Recovery is a fork of TWRP with many improvements to make your exper
 [*][B]For device:[/B] YourDeviceCodeNameHere
 [*][B]Maintainer/Authors build:[/B] Mention your xda profile here
 [*][B]PitchBlack Source Code: [/B] [url]https://github.com/PitchBlackRecoveryProject[/url]
-[*][B]Device tree: [/B] [urlLink to the device tree. must give device tree from pbrp repo if it's a official build[/url
-[*][B]Kernel:[/B] [url]Give kernel link here, remove this line if you are using prebuilt kernel[/url]
+[*][B]Device tree: [/B] [url  Link to the device tree. must give device tree from pbrp repo if it's a official build  [/url]
+[*][B]Kernel:[/B] [url]  Give kernel link here, remove this line if you are using prebuilt kernel  [/url]
 [*][B]PitchBlack Team:[/B] [MENTION=9545189]rezaadi0105[/MENTION], [MENTION=8102966]firewolfxda[/MENTION], [MENTION=7270336]manjot.gni[/MENTION], [MENTION=7371266]androiabledroid[/MENTION], Arbaz Khan
 [/LIST]
 
