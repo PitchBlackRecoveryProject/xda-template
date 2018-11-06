@@ -1,0 +1,11 @@
+Project Type: Tool/Utility
+Project Name: PitchBlack Recovery Project
+Thread Title: [RECOVERY][OFFICIAL/UNOFFICIAL tag here][your device codename here][v2.9.0] Pitch Black Recovery [update time in dd/mm/yyy format]
+Use external logo: https://github.com/PitchBlackRecoveryProject/xda-template/raw/master/PBRP_sharp.png
+
+Project Contributors:
+
+Additional Contributors: Reza Adi, Firewolfxda, Manjot Sidhu, Mohd Faraz, Arbaz Khan
+
+Project status: Stable
+Stable Version: 2.9.0

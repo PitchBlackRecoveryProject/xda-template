@@ -1,0 +1,87 @@
+[CENTER][IMG="PB_Banner"]https://github.com/PitchBlackRecoveryProject/xda-template/raw/master/banner.png[/IMG]
+[CODE]
+/*
+*Disclaimer
+*
+* Your warranty is now void.
+* 
+* We're not responsible for bricked devices, dead SD cards,
+* thermonuclear war, or you getting fired because the alarm app failed. Please
+* do some research if you have any concerns about features included in this ROM
+* before flashing it! YOU are choosing to make these modifications, and if
+* you point the finger at us for messing up your device, we will laugh at you.
+*/[/CODE][/CENTER]
+[INDENT]
+[B][SIZE="5"]Introduction[/SIZE][/B]
+
+Pitch Black Recovery is a fork of TWRP with many improvements to make your experience better. It's more flexible & easy to use.
+
+[LIST]
+
+[*][B]Based on TWRP version: [/B]3.2.3
+[*][B]PitchBlack version: [/B]2.9.0
+[*][B]For device:[/B] YourDeviceCodeNameHere
+[*][B]Maintainer/Authors build:[/B] Mention your xda profile here
+[*][B]PitchBlack Source Code: https://github.com/PitchBlackRecoveryProject
+[*][B]Device tree: https://github.com/PitchBlackRecoveryProject
+[*][B]Kernel:[/B] [url]https://github.com/Anik1199/android_kernel_xiaomi_msm8916[/url]
+[*][B]PitchBlack Team:[/B] Reza Adi, [MENTION=8102966]firewolfxda[/MENTION], [MENTION=7270336]manjot.gni[/MENTION], @mohd.faraz.abc, Arbaz Khan
+[/LIST]
+
+[B][SIZE="5"]Features[/SIZE][/B]
+
+[QUOTE][LIST]
+[*]Supports Treble and non-Treble ROMs
+[*]Up-to-date Oreo kernel, built from sources (Pie is on the way)
+[*]Full dark theme with changeable accents
+[*]Reorganized menus
+[*]MIUI OTA support
+[*]Disable DM Verity
+[*]Use AromaFM as default file manager
+[*]Various tools are include
+[*]Universal flash-able file for all variant of a device
+[*]Many bug fixes & optimization & much more
+[/LIST]
+[/QUOTE]
+
+[B][SIZE="5"]Installation Instructions[/SIZE][/B]
+
+[B][SIZE="4"]  From previous version or other recovery [/SIZE][/B]
+[LIST]
+[*]Download the PitchBlack zip to your device
+[*]Reboot to your current custom recovery
+[*]Flash the PitchBlack zip
+[*]The device will automatically reboot into PitchBlack Recovery after installation
+[*]Enjoy
+[/LIST]
+
+[B][SIZE="4"]  From PC[/SIZE][/B](Windows & Linux)
+
+[LIST]
+[*]Download PBRP PC Installer zip from bellow
+[*]Download PitchBlack Recovery flashable zip from bellow
+[*]Extract the PBRP PC installer zip & copy the flashable zip to the installer folder
+[*]Goto fastboot mode in your device
+[*]Windows users open pbinstaller.bat file
+[*]Linux users execute pbinstaller.sh in a terminal
+[*]Follow the introductions on the installer from there
+[*]Enjoy
+[/LIST]
+(LInux users will need unzip, adb & fastboot installed on their system)
+
+[B][SIZE="5"]Changelog[/SIZE][/B]
+
+[CODE]v2.9.0
+- Update kernel
+- Update DM Verity Logic
+- Update magisk
+- Update unroot magisk
+- Some bug fixed[/CODE]
+
+[B][SIZE="5"]Downloads[/SIZE][/B]
+
+[B][SIZE="4"]Flashable zip[/SIZE][/B]
+[url]Give direct download link here[/url]
+
+[B][SIZE="4"]PC Installer[/SIZE][/B]
+[url]https://sourceforge.net/projects/pitchblack-twrp/files/Utilities/Installer/PB_Installer_20181014_ALPHA.zip/download[/url][/INDENT]
