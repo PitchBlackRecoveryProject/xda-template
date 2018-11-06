@@ -1,6 +1,8 @@
 # XDA post template for PBRP 
 
-**Stuff to change in the main post:
+
+**Stuff to change in the main post:**
+
 
 line 23
 
