@@ -58,8 +58,8 @@ Pitch Black Recovery is a fork of TWRP with many improvements to make your exper
 [B][SIZE="4"]  From PC[/SIZE][/B](Windows & Linux)
 
 [LIST]
-[*]Download PBRP PC Installer zip from bellow
-[*]Download PitchBlack Recovery flashable zip from bellow
+[*]Download PBRP PC Installer zip from below
+[*]Download PitchBlack Recovery flashable zip from below
 [*]Extract the PBRP PC installer zip & copy the flashable zip to the installer folder
 [*]Goto fastboot mode in your device
 [*]Windows users open pbinstaller.bat file
