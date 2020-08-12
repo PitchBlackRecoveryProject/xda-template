@@ -72,6 +72,7 @@ Pitch Black Recovery is a fork of TWRP with many improvements to make your exper
 
 [B][SIZE="5"]Changelog[/SIZE][/B]
 
+[B][SIZE="4"]PBRP Side Changelog[/SIZE][/B]
 [CODE]
 v3.0.0
 - Fully Redesigned UI
@@ -104,6 +105,12 @@ v2.9.0
 - Update magisk
 - Update unroot magisk
 - Some bug fixed[/CODE]
+
+[B][SIZE="4"]Device Side Changelog[/SIZE][/B]
+[CODE][/CODE]
+
+[B][SIZE="5"]Bugs[/SIZE][/B]
+- You tell me!
 
 [B][SIZE="5"]Downloads[/SIZE][/B]
 
