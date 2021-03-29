@@ -18,8 +18,8 @@ Pitch Black Recovery is a fork of TWRP with many improvements to make your exper
 
 [LIST]
 
-[*][B]Based on TWRP version: [/B]3.4.0
-[*][B]PitchBlack version: [/B]3.0.0
+[*][B]Based on TWRP version: [/B]3.5.1
+[*][B]PitchBlack version: [/B]3.1.0
 [*][B]For device:[/B] YourDeviceCodeNameHere
 [*][B]Maintainer/Authors build:[/B] Mention your xda profile here
 [*][B]PitchBlack Source Code: [/B] [url]https://github.com/PitchBlackRecoveryProject[/url]
@@ -74,37 +74,13 @@ Pitch Black Recovery is a fork of TWRP with many improvements to make your exper
 
 [B][SIZE="4"]PBRP Side Changelog[/SIZE][/B]
 [CODE]
-v3.0.0
-- Fully Redesigned UI
-- Added new Keychecks While Flashing PBRP or recovery.img or Ramdisk
-- Fully Redesigned Website https://pitchblackrecovery.com
-- New Android like Power Menu (Activated via power key hold)
-- Flashlight toggled by Vol up(+) on hold
-- New Scrollable Advanced menu
-- Totally Redesigned Icons
-- Removed old unnecessary Theming Stuff
-- Tested on almost all handy Resolutions
-- Flashlight toggle on Lockscreen
-- More checks for SAR/Non-SAR\
-- New Navbar
-- Support on almost all Android version (5.0+)
-- Update ozip decrypt
-- Fix up ozip print logs & take all paths
-- Update FUNDING.yml
-- Fixed encrypted removal checks & buttons
-- Add Flag for disabling treble compatibility by default
-- Is_Data_Wiped: Simplify function signature
-- Unified  AB_OTA_UPDATER
-- Change AB device log storage to /data/recovery
-- Delay start if specified in board
-- Optimize touchscreen driver initialization delay.
-
-v2.9.0
-- Update kernel
-- Update DM Verity Logic
-- Update magisk
-- Update unroot magisk
-- Some bug fixed[/CODE]
+v3.1.0
+- Bump to 3.1.0
+- Based on TWRP 3.5.1
+- Redesigned homescreen
+- Fixed minor glitches
+- Added more languages support
+[/CODE]
 
 [B][SIZE="4"]Device Side Changelog[/SIZE][/B]
 [CODE][/CODE]
