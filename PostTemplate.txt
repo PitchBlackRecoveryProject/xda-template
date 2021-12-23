@@ -18,7 +18,7 @@ Pitch Black Recovery is a fork of TWRP with many improvements to make your exper
 
 [LIST]
 
-[*][B]Based on TWRP version: [/B]3.5.1
+[*][B]Based on TWRP version: [/B]3.5.2
 [*][B]PitchBlack version: [/B]3.1.0
 [*][B]For device:[/B] YourDeviceCodeNameHere
 [*][B]Maintainer/Authors build:[/B] Mention your xda profile here
@@ -76,7 +76,7 @@ Pitch Black Recovery is a fork of TWRP with many improvements to make your exper
 [CODE]
 v3.1.0
 - Bump to 3.1.0
-- Based on TWRP 3.5.1
+- Based on TWRP 3.5.2
 - Redesigned homescreen
 - Fixed minor glitches
 - Added more languages support
